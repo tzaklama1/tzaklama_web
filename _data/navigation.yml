@@ -7,5 +7,8 @@ main:
   - title: "Teaching"
     url: /teaching/
 
+  - title: "Lessons"
+    url: /lessons/
+
   - title: "CV"
     url: /cv/
