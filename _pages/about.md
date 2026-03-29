@@ -9,11 +9,11 @@ redirect_from:
 
 <img src="/tzaklama_web/images/welcome_headshot.jpeg" alt="Timothy Zaklama" style="display: block; margin: 0 auto 1.5em auto; max-width: 350px; border-radius: 12px;">
 
-Hi there, I'm Timothy -- and I'm so glad you're here! Welcome to my little corner of the internet. Whether you stumbled upon this page by accident, were sent here by a friend, or are just curious about what I'm up to, I'm genuinely happy you stopped by. Pull up a chair and make yourself at home.
+Hi there, I'm Tim -- and I'm so glad you're here! Welcome to my website. Whether you stumbled upon this page by accident, were sent here by a friend, or are just curious about what I'm up to, I'm genuinely happy you stopped by. Feel free to contact me with any inquiries, to provide any feedback, or simply to just introduce yourself!
 
 ## A Little About Me
 
-I'm a PhD candidate in condensed matter theory at MIT, working in Liang Fu's group on AI for quantum matter and strongly correlated systems. My recent work includes building the first AI foundation model to learn the full quantum wavefunction across multiple numbers of particles, and the first foundation model for electronic systems from first principles using transformer architecture.
+I'm a PhD candidate in condensed matter theory at MIT, working in Liang Fu's group on AI for quantum matter and strongly correlated systems. I am very interested in developing AI models to push the frontiers of science and technology. My recent work includes building the first AI foundation model to learn the full quantum wavefunction across multiple numbers of particles, and the first foundation model for electronic systems from first principles using transformer architecture.
 
 Before grad school, I spent two years as a quantitative trader at IMC Financial Markets, where I built autonomous algorithmic strategies for index options across the S&P 500, Nasdaq, and Russell 2000. I developed the first position taking algorithm to generate over $1MM in its first month in production, and to be generalized across every major desk in the Chicago office.
 
