@@ -11,6 +11,8 @@ redirect_from:
 
 Hi there, I'm Tim -- and I'm so glad you're here! Welcome to my website. Whether you stumbled upon this page by accident, were sent here by a friend, or are just curious about what I'm up to, I'm genuinely happy you stopped by. Feel free to contact me with any inquiries, to provide any feedback, or simply to just introduce yourself!
 
+As an exciting side note, my lab is starting a company, feel free to check it [out](https://deeppsi.ai)!
+
 ## A Little About Me
 
 I'm a PhD candidate in condensed matter theory at MIT, working in Liang Fu's group on AI for quantum matter and strongly correlated systems. I am very interested in developing AI models to push the frontiers of science and technology. My recent work includes building the first AI foundation model to learn the full quantum wavefunction across multiple numbers of particles, and the first foundation model for electronic systems from first principles using transformer architecture.
