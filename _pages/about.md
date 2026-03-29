@@ -25,7 +25,7 @@ I'm passionate about mentorship and teaching -- I currently serve as Head TA for
 
 I've organized this site into a few sections so you can easily find what interests you most. Here's a quick guide to what you'll find in each tab at the top:
 
-- **[Publications](/tzaklama_web/publications/)** -- This is where you'll find my academic research. My work has been published in Physical Review X, Physical Review B, Physical Review E, and Few-Body Systems, spanning topics from fractional electron states in twisted semiconductors to self-attention neural networks for correlated electron problems. If you're a fellow researcher or just curious about the science, this is the place for you!
+- **[Publications](/tzaklama_web/publications/)** -- This is where you'll find my academic research. My work has been published in Physical Review X, Physical Review B, Physical Review E, and Few-Body Systems, spanning topics from fractional electron states in twisted semiconductors to self-attention neural networks for correlated electron problems. If you're a fellow researcher or just curious about the science, feel free to send me a message!
 
 - **[Teaching](/tzaklama_web/teaching/)** -- Teaching and mentorship are close to my heart. Here you can find details about my teaching roles, including my work as Head TA for Statistical Mechanics at MIT.
 
