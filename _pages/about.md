@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-<img src="/tzaklama_web/images/welcome_headshot.jpeg" alt="Timothy Zaklama" style="display: block; margin: 0 auto 1.5em auto; max-width: 350px; border-radius: 12px;">
+<img src="/images/welcome_headshot.jpeg" alt="Timothy Zaklama" style="display: block; margin: 0 auto 1.5em auto; max-width: 350px; border-radius: 12px;">
 
 Hi there, I'm Tim -- and I'm so glad you're here! Welcome to my website. Whether you stumbled upon this page by accident, were sent here by a friend, or are just curious about what I'm up to, I'm genuinely happy you stopped by. Feel free to contact me with any inquiries, to provide any feedback, or simply to just introduce yourself!
 
@@ -25,13 +25,13 @@ I'm passionate about mentorship and teaching -- I currently serve as Head TA for
 
 I've organized this site into a few sections so you can easily find what interests you most. Here's a quick guide to what you'll find in each tab at the top:
 
-- **[Publications](/tzaklama_web/publications/)** -- This is where you'll find my academic research. My work has been published in Physical Review X, Physical Review B, Physical Review E, and Few-Body Systems, spanning topics from fractional electron states in twisted semiconductors to self-attention neural networks for correlated electron problems. If you're a fellow researcher or just curious about the science, feel free to send me a message!
+- **[Publications](/publications/)** -- This is where you'll find my academic research. My work has been published in Physical Review X, Physical Review B, Physical Review E, and Few-Body Systems, spanning topics from fractional electron states in twisted semiconductors to self-attention neural networks for correlated electron problems. If you're a fellow researcher or just curious about the science, feel free to send me a message!
 
-- **[Teaching](/tzaklama_web/teaching/)** -- Teaching and mentorship are close to my heart. Here you can find details about my teaching roles, including my work as Head TA for Statistical Mechanics at MIT.
+- **[Teaching](/teaching/)** -- Teaching and mentorship are close to my heart. Here you can find details about my teaching roles, including my work as Head TA for Statistical Mechanics at MIT.
 
-- **[Lessons](/tzaklama_web/lessons/)** -- This one is personal and probably my favorite page on this site. Over the years, I've collected life lessons from mentors, friends, books, and my own experiences. They've helped me become a better version of myself, and I hope they might do the same for you. Take what resonates and leave the rest.
+- **[Lessons](/lessons/)** -- This one is personal and probably my favorite page on this site. Over the years, I've collected life lessons from mentors, friends, books, and my own experiences. They've helped me become a better version of myself, and I hope they might do the same for you. Take what resonates and leave the rest.
 
-- **[CV](/tzaklama_web/cv/)** -- If you'd like the full picture of my academic and professional journey -- education, work experience, skills, awards, and more -- it's all here.
+- **[CV](/cv/)** -- If you'd like the full picture of my academic and professional journey -- education, work experience, skills, awards, and more -- it's all here.
 
 Thanks again for visiting. I hope you find something here that inspires you, makes you think, or simply brightens your day. Don't hesitate to reach out -- I'd love to hear from you!
 
